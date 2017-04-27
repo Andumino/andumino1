@@ -48,5 +48,5 @@
 .card2:hover > .front{transform: rotateY( 0deg );}
 
 body {
-    background-color: darkgreen;
+    background-color: darkcyan;
 }
